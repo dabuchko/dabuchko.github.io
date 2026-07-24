@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Disallow: /LICENSE
+Disallow: /template.html
